@@ -8,9 +8,10 @@ Update
 
 Python3 compatible version. 
 Install:
+```bash
 git clone
 sudo python3 setup.py install
-
+```
 
 Motivation
 ----------
