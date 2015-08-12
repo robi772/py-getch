@@ -3,6 +3,14 @@ Py-Getch
 
 Portable **getch()** for Python.
 
+Update
+------
+
+Python3 compatible version. 
+Install:
+git clone
+sudo python3 setup.py install
+
 
 Motivation
 ----------
@@ -55,3 +63,4 @@ For proper pause functionality.
 
 
 [pip]: http://pypi.python.org/pypi/pip
+
